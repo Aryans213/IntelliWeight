@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+}
+
+#side-image {
+  padding-left: 20px;
+}
+
+#top-image {
+  padding-left: 50px;
+}
+
+#mission-statement {
+
+  text-align: center;
+  font-family: fantasy;
+}
+
+header {
+  background-color: #1e84d2
+;
+}
+
+.navbar .container {
+  padding-bottom: 10px;
+}
+
+#logo-img {
+  width: 150px;
+  height: 150px;
+  background: url('../images/logo-image.png');
+  background-color: #1e84d2;
+  background-size: cover;
+}
+
+#header-title {
+  color: white;
+  font-family: cursive;
+  text-decoration: none;
+}
+
+#logo-image {
+  border: none;
+  padding: 0px;
+}
+
+#header-nav {
+  border: 0;
+  margin-right: 175px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+#home:hover {
+  background-color: #f7c336;
+  color: black;
+  transition: 0s;
+}
+
+#home {
+  border: none;
+  background-color: #000066;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  object-position: 70px 10%;
+}
+
+#home a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+/* End Header */
+
+/* H1s */
+
+#home-title {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Rubik Scribble', fantasy;
+}
+
+#order-status-title {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Rubik Scribble', fantasy;
+}
+
+#about-product-title {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Rubik Scribble', fantasy;
+}
+
+#faq-title {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Rubik Scribble', fantasy;
+}
+
+#about-us-title {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Rubik Scribble', fantasy;
+}
+
+/* End H1s */
+
+
+/* FOOTER */
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #0099ff;
+  border-top: 0;
+}
+.panel-footer div.row {
+  margin-bottom: 35px;
+}
+/* END FOOTER */
+
+
+@media (max-width: 575.98px) {
+
+
+}
